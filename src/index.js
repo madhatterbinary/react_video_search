@@ -16,7 +16,7 @@ class App extends Component {
       selectedVideo: null
     };
 
-    this.videoSearch('flying drones');
+    this.videoSearch('people are awesome');
   }
 
   videoSearch(term) {
